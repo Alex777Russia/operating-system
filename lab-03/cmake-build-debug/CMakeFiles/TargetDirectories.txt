@@ -1,0 +1,3 @@
+/Users/aleksejshevcenko/Documents/Ершов 2 семестр/CODE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksejshevcenko/Documents/Ершов 2 семестр/CODE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksejshevcenko/Documents/Ершов 2 семестр/CODE/cmake-build-debug/CMakeFiles/CODE.dir

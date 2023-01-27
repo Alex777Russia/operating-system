@@ -1,0 +1,4 @@
+/Users/aleksejshevcenko/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/aleksejshevcenko/Desktop/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/aleksejshevcenko/Documents/Ершов 2 семестр/CODE"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/aleksejshevcenko/Documents/Ершов 2 семестр/CODE/cmake-build-debug
